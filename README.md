@@ -36,8 +36,6 @@ FSAA=0; (set to 1 if you want to use AtoC, AtoC makes the game look smoother)
 
 shadowZDistance=50; (Shadows off but if on will help)
 
-HDRPrecision=8; (16 = Better for night time)
-
 anisoFilter=0; (Better visual acuity at cost of sharper looking textures)
 
 
