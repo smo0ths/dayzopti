@@ -3,21 +3,27 @@
 **Put the game on a RamDisk if you can.**
 
 **Launch Commands:** -nosplash -nologs
-**Optional:** -high
+
+**Optional (test):** -high
 
 
 **Open file with:**
+
 **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg
 
 **Edit correspondingly to your correct resolution:**
 
 Render_W=1920;
+
 Render_H=1080;
+
 Resolution_W=1920;
+
 Resolution_H=1080;
 
 
 **Open file with:**
+
 Windows key + R: %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
 
 **Edit correspondingly:**
@@ -43,7 +49,7 @@ anisoFilter=0; (Better visual acuity at cost of sharper looking textures)
 
 sceneComplexity=100000; (Set before launching game) (can be lower) (see enemy up to 500m)
 
-**Normal** = 500000; (Without zooming see enemy up to around 800m) (recommended)
+Normal = 500000; (Without zooming see enemy up to around 800m) **(recommended at least)**
 
 Holding right click (zooming) adds around 300m on each setting.
 
