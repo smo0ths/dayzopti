@@ -24,7 +24,7 @@ Resolution_H=1080;
 
 **Open file with:**
 
-Windows key + R: %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
+**Windows key + R:** %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
 
 **Edit correspondingly:**
 
