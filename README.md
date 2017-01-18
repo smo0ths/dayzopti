@@ -5,6 +5,7 @@ Put the game on a RamDisk if you can.
 Launch Commands: -nosplash -nologs
 Optional: -high
 
+
 Open file with:
 Windows key + R: %USERPROFILE%/Documents/DayZ/DayZ.cfg
 
@@ -14,6 +15,7 @@ Render_W=1920;
 Render_H=1080;
 Resolution_W=1920;
 Resolution_H=1080;
+
 
 Open file with:
 Windows key + R: %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
@@ -33,20 +35,28 @@ HDRPrecision=8; (16 = Better for night time)
 
 anisoFilter=0; (Better visual acuity at cost of sharper looking textures)
 
+
 FOV: if 70 (default) otherwise all numbers fluctuate according to the settings below
+
 
 Objects setting in game (sceneComplexity):
 
 sceneComplexity=100000; (Set before launching game) (can be lower) (see enemy up to 500m)
+
 Normal = 500000; (Without zooming see enemy up to around 800m) (recommended)
+
 Holding right click (zooming) adds around 300m on each setting.
+
 
 View distance:
 
 viewDistance=2000; (Lower this to match other settings or gain fps)
+
 preferredObjectViewDistance=1300; (Lower this to match other settings or gain fps)
 
+
 These recommended settings will allow you to see up to 1300 meters.
+
 
 (Devs make an in-game slider like in arma 3 for these settings ha yea right)
 
