@@ -6,9 +6,9 @@
 
  * **Optional (test):** -high
 
- * **Open file with:**
+3. **Open file with:**
 
-3. **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg
+ * **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg
 
  * **Edit correspondingly to your correct resolution ect.:**
 
