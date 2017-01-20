@@ -6,7 +6,6 @@
 
 **Optional (test):** -high
 
-
 3. **Open file with:**
 
 **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg
@@ -39,9 +38,7 @@ shadowZDistance=50; (Shadows off but if on will help)
 
 anisoFilter=0; (Better visual acuity at cost of sharper looking textures)
 
-
 6. **FOV:** if 70 (default) otherwise all numbers fluctuate according to the settings below
-
 
 7. **Objects setting in game (sceneComplexity):**
 
@@ -51,22 +48,10 @@ sceneComplexity=100000; (Set before launching game) (can be lower) (see enemy up
 
 Holding right click (zooming) adds around 300m on each setting.
 
-
 8. **View distance:**
 
 viewDistance=2000; (Lower this to match other settings or gain fps)
 
 preferredObjectViewDistance=1300; (Lower this to match other settings or gain fps)
 
-
 9. **These recommended settings will allow you to see up to 1300 meters.**
-
-
-
-
-
-
-
-
-
-
