@@ -14,44 +14,44 @@
 
  * Render_W=1920;
 
-Render_H=1080;
+ * Render_H=1080;
 
-Resolution_W=1920;
+ * Resolution_W=1920;
 
-Resolution_H=1080;
+ * Resolution_H=1080;
 
-FSAA=0; (set to 2 if you want to use AtoC, AtoC makes the game look smoother)
+ * FSAA=0; (set to 2 if you want to use AtoC, AtoC makes the game look smoother)
 
-**Set DayZ.cfg file to read only.**
+4. **Set DayZ.cfg file to read only.**
+ * 
+5. **Open file with:**
 
-**Open file with:**
+ * **Windows key + R:** %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
 
-**Windows key + R:** %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
+ * **Edit correspondingly:**
 
-**Edit correspondingly:**
+ * refresh=144; (Your monitor's refresh rate, -1 defaults to your actual refresh rate now)
 
-refresh=144; (Your monitor's refresh rate, -1 defaults to your actual refresh rate now)
+ * mouseSmoothing=0;
 
-mouseSmoothing=0;
+ * shadowZDistance=50; (Shadows off but if on will help)
 
-shadowZDistance=50; (Shadows off but if on will help)
+ * anisoFilter=0; (Better visual acuity at cost of sharper looking textures)
 
-anisoFilter=0; (Better visual acuity at cost of sharper looking textures)
+6. **FOV:** if 70 (default) otherwise all numbers fluctuate according to the settings below
 
-**FOV:** if 70 (default) otherwise all numbers fluctuate according to the settings below
+7. **Objects setting in game (sceneComplexity):**
 
-**Objects setting in game (sceneComplexity):**
+ * sceneComplexity=100000; (Set before launching game) (can be lower) (see enemy up to 500m)
 
-sceneComplexity=100000; (Set before launching game) (can be lower) (see enemy up to 500m)
+ * **Normal setting in-game** = 500000; (Without zooming see enemy up to around 800m) **(recommended at least)**
 
-**Normal setting in-game** = 500000; (Without zooming see enemy up to around 800m) **(recommended at least)**
+ * Holding right click (zooming) adds around 300m on each setting.
 
-Holding right click (zooming) adds around 300m on each setting.
+8. **View distance:**
 
-**View distance:**
+ * viewDistance=2000; (Lower this to match other settings or gain fps)
 
-viewDistance=2000; (Lower this to match other settings or gain fps)
+ * preferredObjectViewDistance=1300; (Lower this to match other settings or gain fps)
 
-preferredObjectViewDistance=1300; (Lower this to match other settings or gain fps)
-
-**These recommended settings will allow you to see up to 1300 meters.**
+9. **These recommended settings will allow you to see up to 1300 meters.**
