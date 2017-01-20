@@ -1,13 +1,13 @@
 # dayzopti
 
-**Put the game on a RamDisk if you can.**
+1. **Put the game on a RamDisk if you can.**
 
-**Launch Commands:** -nosplash -nologs
+2. **Launch Commands:** -nosplash -nologs
 
 **Optional (test):** -high
 
 
-**Open file with:**
+3. **Open file with:**
 
 **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg
 
@@ -23,9 +23,9 @@ Resolution_H=1080;
 
 FSAA=0; (set to 2 if you want to use AtoC, AtoC makes the game look smoother)
 
-**Set DayZ.cfg file to read only.**
+4. **Set DayZ.cfg file to read only.**
 
-**Open file with:**
+5. **Open file with:**
 
 **Windows key + R:** %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
 
@@ -40,10 +40,10 @@ shadowZDistance=50; (Shadows off but if on will help)
 anisoFilter=0; (Better visual acuity at cost of sharper looking textures)
 
 
-**FOV:** if 70 (default) otherwise all numbers fluctuate according to the settings below
+6. **FOV:** if 70 (default) otherwise all numbers fluctuate according to the settings below
 
 
-**Objects setting in game (sceneComplexity):**
+7. **Objects setting in game (sceneComplexity):**
 
 sceneComplexity=100000; (Set before launching game) (can be lower) (see enemy up to 500m)
 
@@ -52,14 +52,14 @@ sceneComplexity=100000; (Set before launching game) (can be lower) (see enemy up
 Holding right click (zooming) adds around 300m on each setting.
 
 
-**View distance:**
+8. **View distance:**
 
 viewDistance=2000; (Lower this to match other settings or gain fps)
 
 preferredObjectViewDistance=1300; (Lower this to match other settings or gain fps)
 
 
-**These recommended settings will allow you to see up to 1300 meters.**
+9. **These recommended settings will allow you to see up to 1300 meters.**
 
 
 
