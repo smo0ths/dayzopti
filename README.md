@@ -1,7 +1,7 @@
 # dayzopti
 
 1. **Put the game on a RamDisk if you can.**
- *
+
 2. **Launch Commands:** -nosplash -nologs
 
  * **Optional (test):** -high
@@ -23,7 +23,7 @@
  * FSAA=0; (set to 2 if you want to use AtoC, AtoC makes the game look smoother)
 
 4. **Set DayZ.cfg file to read only.**
- * 
+
 5. **Open file with:**
 
  * **Windows key + R:** %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
