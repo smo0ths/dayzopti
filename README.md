@@ -52,6 +52,6 @@
 
  * viewDistance=2000; (Lower this to match other settings or gain fps)
 
- * preferredObjectViewDistance=1300; (Lower this to match other settings or gain fps)
+ * preferredObjectViewDistance=1400; (Lower this to match other settings or gain fps)
 
-9. **These recommended settings will allow you to see up to 1300 meters.**
+9. **These recommended settings will allow you to see up to 1300~ meters.**
