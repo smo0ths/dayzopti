@@ -10,7 +10,7 @@
 
  * **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg 
 
- * **Edit correspondingly to your correct resolution ect.:** 
+ * **Edit correspondingly to your correct resolution:** 
 
  * Render_W=1920; 
 
