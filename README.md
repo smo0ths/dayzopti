@@ -1,4 +1,4 @@
-# dayzopti
+# arma3/dayz/optimization
 
 1. **Put the game on a RamDisk if you can.**
 
