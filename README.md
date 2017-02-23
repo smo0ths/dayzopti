@@ -26,7 +26,7 @@
 
  * mouseSmoothing=0;
 
- * shadowZDistance=50; (Shadows off but if on will help)
+ * shadowZDistance=50;
 
 6. **FOV:** if 70 (default) otherwise all numbers fluctuate according to the settings below
 
