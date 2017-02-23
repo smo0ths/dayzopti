@@ -36,8 +36,6 @@
 
  * shadowZDistance=50; (Shadows off but if on will help)
 
- * anisoFilter=0; (Better visual acuity at cost of sharper looking textures)
-
 6. **FOV:** if 70 (default) otherwise all numbers fluctuate according to the settings below
 
 7. **Objects setting in game (sceneComplexity):**
