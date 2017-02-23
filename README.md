@@ -22,9 +22,7 @@
 
 4. **Set DayZ.cfg file to read only.** ;dayz only
 
-5. **Open file with:** <yourname>.DayZProfile and <yourname>.Arma3Profile
-
- * **Edit correspondingly:**
+5. **Open and Edit:** (PCname).DayZProfile and (PCname).Arma3Profile
 
  * mouseSmoothing=0;
 
