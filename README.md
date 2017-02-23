@@ -6,21 +6,21 @@
 
  * **Optional (test):** -high
 
-3. **Open file with:** ;dayz only
+3. **Open file with:** (dayz only)
 
- * **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg ;dayz only
+ * **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg 
 
- * **Edit correspondingly to your correct resolution ect.:** ;dayz only
+ * **Edit correspondingly to your correct resolution ect.:** 
 
- * Render_W=1920; ;dayz only
+ * Render_W=1920; 
 
- * Render_H=1080; ;dayz only
+ * Render_H=1080;
 
- * Resolution_W=1920; ;dayz only
+ * Resolution_W=1920; 
 
- * Resolution_H=1080; ;dayz only
+ * Resolution_H=1080; 
 
-4. **Set DayZ.cfg file to read only.** ;dayz only
+4. **Set DayZ.cfg file to read only.** 
 
 5. **Open and Edit:** (PCname).DayZProfile and (PCname).Arma3Profile
 
