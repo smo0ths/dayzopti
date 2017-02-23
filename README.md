@@ -6,31 +6,25 @@
 
  * **Optional (test):** -high
 
-3. **Open file with:**
+3. **Open file with:** ;dayz only
 
- * **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg
+ * **Windows key + R:** %USERPROFILE%/Documents/DayZ/DayZ.cfg ;dayz only
 
- * **Edit correspondingly to your correct resolution ect.:**
+ * **Edit correspondingly to your correct resolution ect.:** ;dayz only
 
- * Render_W=1920;
+ * Render_W=1920; ;dayz only
 
- * Render_H=1080;
+ * Render_H=1080; ;dayz only
 
- * Resolution_W=1920;
+ * Resolution_W=1920; ;dayz only
 
- * Resolution_H=1080;
+ * Resolution_H=1080; ;dayz only
 
- * FSAA=0; (set to 2 if you want to use AtoC, AtoC makes the game look smoother)
+4. **Set DayZ.cfg file to read only.** ;dayz only
 
-4. **Set DayZ.cfg file to read only.**
-
-5. **Open file with:**
-
- * **Windows key + R:** %USERPROFILE%/Documents/DayZ/SPC.DayZProfile
+5. **Open file with:** <yourname>.DayZProfile and <yourname>.Arma3Profile
 
  * **Edit correspondingly:**
-
- * refresh=144; (Your monitor's refresh rate, -1 defaults to your actual refresh rate now)
 
  * mouseSmoothing=0;
 
